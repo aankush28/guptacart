@@ -1,3 +1,7 @@
+# Git Push .......
+git remote add origin https://github.com/royalguptayes/guptacart.git
+git branch -M main
+git push -u origin main
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
