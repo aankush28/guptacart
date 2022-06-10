@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guptacart/static/css/main.6fbcaa73.css",
-    "main.js": "/guptacart/static/js/main.7f31c5fa.js",
+    "main.js": "/guptacart/static/js/main.de18cd3a.js",
     "index.html": "/guptacart/index.html",
     "main.6fbcaa73.css.map": "/guptacart/static/css/main.6fbcaa73.css.map",
-    "main.7f31c5fa.js.map": "/guptacart/static/js/main.7f31c5fa.js.map"
+    "main.de18cd3a.js.map": "/guptacart/static/js/main.de18cd3a.js.map"
   },
   "entrypoints": [
     "static/css/main.6fbcaa73.css",
-    "static/js/main.7f31c5fa.js"
+    "static/js/main.de18cd3a.js"
   ]
 }
